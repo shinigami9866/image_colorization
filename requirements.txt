@@ -1,0 +1,9 @@
+numpy
+tensorflow  
+keras
+opencv-python
+matplotlib
+tqdm
+streamlit
+pillow
+regex
